@@ -1,0 +1,1 @@
+w(()=>{"use strict";console.log("running from index.js"),console.log("ravalynn")})();
